@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun </name>
+	      <name>Mithun</name>
 	      <url>http://18.222.232.26:8081/repository/maven_snap/</url>
 	    </snapshotRepository>
 	    
