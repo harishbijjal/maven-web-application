@@ -10,11 +10,8 @@
 	<name>maven-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
-
-	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
-	</organization>
+        
+	
 
 	<properties>
 		<jdk.version>1.8</jdk.version>
